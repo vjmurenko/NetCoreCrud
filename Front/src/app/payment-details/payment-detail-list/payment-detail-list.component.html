@@ -1,0 +1,17 @@
+<table class="table table-hover" >
+    <tr>
+        <th >Card Owner</th>
+        <th>Card Number</th>
+        <th>Expiration Date</th>
+        <th>CVV </th>
+    </tr>
+
+    <tr id="popRow" *ngFor="let detail of service.list">
+        <td (click)="populateForm(detail)">{{detail.CardOwnerName}}</td>
+        <td (click)="populateForm(detail)">{{detail.CardNumber}}</td>
+        <td (click)="populateForm(detail)">{{detail.ExpirationDate}}</td>
+        <td (click)="populateForm(detail)">{{detail.CW}}</td>
+        <td ><button class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(detail.PMId)"></button></td>
+
+    </tr>
+</table>

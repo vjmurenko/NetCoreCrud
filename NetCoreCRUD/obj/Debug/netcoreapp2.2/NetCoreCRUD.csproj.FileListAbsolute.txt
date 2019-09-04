@@ -1,0 +1,13 @@
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\bin\Debug\netcoreapp2.2\NetCoreCRUD.deps.json
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\bin\Debug\netcoreapp2.2\NetCoreCRUD.runtimeconfig.json
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\bin\Debug\netcoreapp2.2\NetCoreCRUD.runtimeconfig.dev.json
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\bin\Debug\netcoreapp2.2\NetCoreCRUD.dll
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\bin\Debug\netcoreapp2.2\NetCoreCRUD.pdb
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.csproj.CoreCompileInputs.cache
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.RazorAssemblyInfo.cache
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.RazorAssemblyInfo.cs
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.AssemblyInfoInputs.cache
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.AssemblyInfo.cs
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.RazorTargetAssemblyInfo.cache
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.dll
+E:\!Projects\NetCoreCRUD\NetCoreCRUD\obj\Debug\netcoreapp2.2\NetCoreCRUD.pdb
